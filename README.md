@@ -1,4 +1,4 @@
-# cicada
+# V
 
 ## Project setup
 ```
